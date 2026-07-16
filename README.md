@@ -38,9 +38,7 @@ Key Findings
 5.Maharashtra, Karnataka, and Uttar Pradesh recorded the highest order volumes.
 
 Dashboard
-
-https://github.com/kumarprahlad125-pixel/Multi-Channel-Fashion-E-Commerce-Sales-Analysis-India-2022-/blob/4ea5f99829febd0fa8405a28eb808f2d6c6025ba/E-Commerece%20multi%20channel%20performance_DASHBOARD.png
-
+<img width="1292" height="735" alt="Image" src="https://github.com/user-attachments/assets/129c62e6-a15e-4bd1-bb48-5c8493ddc964" />
 
 Key Business Insight
 High Value customers represent only 43% of the customer base but generate approximately 56% of total revenue (₹1.19 Crore). However, only 88 customers (0.3%) qualify for the VIP loyalty program. This highlights a strong opportunity to redesign the loyalty strategy by expanding VIP eligibility or introducing a mid-tier loyalty program to improve retention and customer lifetime value.
