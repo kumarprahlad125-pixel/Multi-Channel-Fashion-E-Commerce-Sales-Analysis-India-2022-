@@ -24,22 +24,6 @@ Tools Used -
 2.MySQL Workbench
 3.Power BI
 
-Repository Structure
-
-Multi-Channel-Fashion-Ecommerce-Analysis/
-│
-├── Dataset/
-│   └── Fashion_Sales_2022.csv
-│
-├── SQL/
-│   ├── Database.sql
-│   └── Analysis.sql
-│
-├── Power BI DASHBOARD/
-│   └── Fashion Sales Dashboard.pbix
-│  
-└── README.md
-
 Methodology - 
 1. Cleaned and validated the dataset in Excel.
 2. Performed business analysis using SQL in MySQL Workbench.
