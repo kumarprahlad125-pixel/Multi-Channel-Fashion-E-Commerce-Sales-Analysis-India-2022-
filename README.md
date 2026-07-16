@@ -42,6 +42,16 @@ Dashboard
 https://github.com/kumarprahlad125-pixel/Multi-Channel-Fashion-E-Commerce-Sales-Analysis-India-2022-/blob/main/E-Commerece%20multi%20channel%20performance_DASHBOARD.png
 
 
+Key Business Insight
+High Value customers represent only 43% of the customer base but generate approximately 56% of total revenue (₹1.19 Crore). However, only 88 customers (0.3%) qualify for the VIP loyalty program. This highlights a strong opportunity to redesign the loyalty strategy by expanding VIP eligibility or introducing a mid-tier loyalty program to improve retention and customer lifetime value.
+
+
+Final Business Recommendations
+• Expand VIP qualification criteria.
+• Prioritize retention campaigns for High Value customers.
+• Increase inventory and marketing for high-performing product categories.
+• Focus regional marketing on high-demand states.
+• Review festive-season marketing strategy.
 
 
 
