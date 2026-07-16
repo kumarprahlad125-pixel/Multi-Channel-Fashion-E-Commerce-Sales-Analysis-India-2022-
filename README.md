@@ -1,4 +1,4 @@
-PROJECT - Multi-Channel Fashion E-Commerce Sales Analysis (India, 2022)
+#PROJECT - Multi-Channel Fashion E-Commerce Sales Analysis (India, 2022)
 
 OVERVIEW -
 This project analyzes 31,047 fashion orders generated across six major Indian e-commerce marketplaces—Amazon, Myntra, Flipkart, Ajio, Nalli, and Meesho—between January and December 2022.
