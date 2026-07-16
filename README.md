@@ -1,4 +1,4 @@
-#PROJECT - 
+PROJECT - 
 Multi-Channel Fashion E-Commerce Sales Analysis (India, 2022)
 
 OVERVIEW -
