@@ -1,12 +1,10 @@
-PROJECT - 
+# Multi-Channel Fshion E-commerce sales analysis 2022
 
-Multi-Channel Fashion E-Commerce Sales Analysis (India, 2022)
-
-OVERVIEW -
+## OVERVIEW 
 
 This project analyzes 31,047 fashion orders generated across six major Indian e-commerce marketplaces—Amazon, Myntra, Flipkart, Ajio, Nalli, and Meesho—between January and December 2022.
 
-BUSINESS QUESTIONS -
+## BUSINESS QUESTIONS 
 
 1.Which marketplaces generate the highest revenue?
 
@@ -19,7 +17,7 @@ BUSINESS QUESTIONS -
 5.What opportunities exist to improve long-term revenue growth?
 
 
-Dataset - 
+## Dataset
 
 1.Source: Indian Fashion E-Commerce Sales Dataset (2022)-KAGGLE
 
@@ -31,15 +29,15 @@ Dataset -
 
 5.Unique Customers: 28,437
 
-Tools Used -
+## Tools Used
 
-1.Microsoft Excel
+Microsoft Excel
 
-2.MySQL Workbench
+MySQL Workbench
 
-3.Power BI
+Power BI
 
-Methodology - 
+## Methodology
 
  1.Cleaned and validated the dataset in Excel.
  
@@ -50,10 +48,10 @@ Methodology -
  4.Generated business insights and recommendations.
 
 
-Dashboard
+## Dashboard
 <img width="1292" height="735" alt="Image" src="https://github.com/user-attachments/assets/129c62e6-a15e-4bd1-bb48-5c8493ddc964" />
 
-Key Findings - 
+## Key Findings 
 
 1.Amazon generated the highest order volume.
 
@@ -66,12 +64,12 @@ Key Findings -
 5.Maharashtra, Karnataka, and Uttar Pradesh recorded the highest order volumes.
 
 
-Key Business Insight - 
+## Key Business Insight
 
 High Value customers represent only 43% of the customer base but generate approximately 56% of total revenue (₹1.19 Crore). However, only 88 customers (0.3%) qualify for the VIP loyalty program. This highlights a strong opportunity to redesign the loyalty strategy by expanding VIP eligibility or introducing a mid-tier loyalty program to improve retention and customer lifetime value.
 
 
-Final Business Recommendations - 
+## Final Business Recommendations
 
 • Expand VIP qualification criteria.
 
