@@ -1,20 +1,30 @@
 PROJECT - 
+
 Multi-Channel Fashion E-Commerce Sales Analysis (India, 2022)
 
 OVERVIEW -
+
 This project analyzes 31,047 fashion orders generated across six major Indian e-commerce marketplaces—Amazon, Myntra, Flipkart, Ajio, Nalli, and Meesho—between January and December 2022.
 
 BUSINESS QUESTIONS -
+
 1.Which marketplaces generate the highest revenue?
+
 2.Which product categories contribute the most to sales?
+
 3.Which customer segments should be prioritized for retention?
+
 4.How are sales distributed across regions?
+
 5.What opportunities exist to improve long-term revenue growth?
 
 
 Dataset - 
+
 1.Source: Indian Fashion E-Commerce Sales Dataset (2022)-KAGGLE
+
 2.Time Period: January–December 2022
+
 3.Records: 31,047 Orders
 4.Columns: 18
 5.Unique Customers: 28,437
