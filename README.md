@@ -9,9 +9,13 @@ This project analyzes 31,047 fashion orders generated across six major Indian e-
 BUSINESS QUESTIONS -
 
 1.Which marketplaces generate the highest revenue?
+
 2.Which product categories contribute the most to sales?
+
 3.Which customer segments should be prioritized for retention?
+
 4.How are sales distributed across regions?
+
 5.What opportunities exist to improve long-term revenue growth?
 
 
