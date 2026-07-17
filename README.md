@@ -40,6 +40,7 @@ Tools Used -
 3.Power BI
 
 Methodology - 
+
  1.Cleaned and validated the dataset in Excel.
  
  2.Performed business analysis using SQL in MySQL Workbench.
