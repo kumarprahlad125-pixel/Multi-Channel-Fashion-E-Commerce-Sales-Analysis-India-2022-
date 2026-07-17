@@ -82,6 +82,34 @@ High Value customers represent only 43% of the customer base but generate approx
 • Review festive-season marketing strategy.
 
 
+## Skills Demonstrated 
+
+SQL (DQL,subqueries,window functions)
+
+Power BI (DAX,DATA MODELLING,POWER QUERY)
+
+Revenue Analysis 
+
+Category Segmentation 
+
+Dashboard development
+
+
+## Project Deliverables
+
+E-commerce sales  dataset (.csv)
+
+SQL analysis script (.sql) — business queries
+
+SQL database dump (.sql) — full schema and data
+
+Power BI dashboard (.pbix)
+
+Dashboard screenshot(s)
+
+README.md
+
+
 
 
 
